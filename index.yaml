@@ -1,0 +1,62 @@
+apiVersion: v1
+entries:
+  codeblock:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-22T12:30:09.259272+02:00"
+    description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
+    digest: eb9ec855e3e4ce18f2266c6e53976f13bbdbd699fc6e1d36dceff33cf6c41365
+    name: codeblock
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/codeblock-0.1.0.tgz
+    version: 0.1.0
+  eclipse:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-22T12:30:09.259458+02:00"
+    description: Entorno de desarrollo integrado extensible ampliamente utilizado
+      para Java y otro lenguajes.
+    digest: 673dcccfb29ecbcdfe0994f41f662f45c358ad320ee5543498d92346c9f16289
+    name: eclipse
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/eclipse-0.1.0.tgz
+    version: 0.1.0
+  jupyter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-22T12:30:09.259639+02:00"
+    description: Aplicación web que pertime crear y compartir documentos con código
+      en vivo, ecuaciones, visualizaciones y texto narrativo
+    digest: c24d5ec1864fdc6dabd9c4dff618bd7352d6aeebbbc07d047a832f50cf4d136f
+    name: jupyter
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/jupyter-0.1.0.tgz
+    version: 0.1.0
+  spyder:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-22T12:30:09.259816+02:00"
+    description: Entorno de desarrollo integrado especializaco en ciencia de datos
+      y análisis numérico, con soporte para Python
+    digest: b9b1e53650e3b73f88d1198d99545207351c0708442bc068f5e301f5321821ec
+    name: spyder
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/spyder-0.1.0.tgz
+    version: 0.1.0
+  vsc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-22T12:30:09.259988+02:00"
+    description: Entorno de desarrollo integrado ligero y altamente presonalizable
+      para una amplia gama de lenguajes de programación.
+    digest: a10523acef6b8ef7564d72c9ba90a172b4964c2a9d39b876f0a6f3f5da8480f0
+    name: vsc
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-22T12:30:09.258818+02:00"
