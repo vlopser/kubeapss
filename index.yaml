@@ -3,9 +3,9 @@ entries:
   codeblock:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-24T19:46:59.491255+02:00"
+    created: "2024-07-01T17:31:02.697592+02:00"
     description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
-    digest: 6b145bb44c4453d7270051b8d207ec87f595bd581e0c6cdbc67ca30f68e42b51
+    digest: 116f8dbe20313945c913b6c02c05c5996049581f4c7bbed26356f7f9653f7ac2
     name: codeblock
     type: application
     urls:
@@ -14,10 +14,10 @@ entries:
   eclipse:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-24T19:46:59.491349+02:00"
+    created: "2024-07-01T17:31:02.697748+02:00"
     description: Entorno de desarrollo integrado extensible ampliamente utilizado
       para Java y otro lenguajes.
-    digest: 22e5381f8b75fb8cb0ad939fc0bc86dbc2e1fbdb4aa8489faa28d03203db03b1
+    digest: e6732cf4e737e95f1a5bee5134c08c693dc7477687e0dcf4d9a2bf1c5ea7cebc
     name: eclipse
     type: application
     urls:
@@ -26,10 +26,10 @@ entries:
   jupyter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-24T19:46:59.491436+02:00"
+    created: "2024-07-01T17:31:02.697902+02:00"
     description: Aplicación web que pertime crear y compartir documentos con código
       en vivo, ecuaciones, visualizaciones y texto narrativo
-    digest: 428fad4f650525e3f78b562217ba033a36cfa6e8f778c9a53fe39e08f7934181
+    digest: 48610e5079d6a0302e957b4bb8461468e18c8b32d6cefe4870f7239e33020cca
     name: jupyter
     type: application
     urls:
@@ -38,10 +38,10 @@ entries:
   spyder:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-24T19:46:59.491528+02:00"
+    created: "2024-07-01T17:31:02.698054+02:00"
     description: Entorno de desarrollo integrado especializaco en ciencia de datos
       y análisis numérico, con soporte para Python
-    digest: 42f38d0862877d0a8777bd420222eafb90c9e484d39f8a81307188e4e8e4d23a
+    digest: b9e022a774bc66ee2466b6179470f64a520e3544da68d93e548aa2f3f8225328
     name: spyder
     type: application
     urls:
@@ -50,13 +50,13 @@ entries:
   vsc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-24T19:46:59.491612+02:00"
+    created: "2024-07-01T17:31:02.698205+02:00"
     description: Entorno de desarrollo integrado ligero y altamente presonalizable
       para una amplia gama de lenguajes de programación.
-    digest: 037152e0b65380ff5afce098fc05c9abfaa08b2fcdc759549cfb616845d0c007
+    digest: c2d86120ef970a1d3ab9f0b47fbb2e297f79716effa9df9d6fad759cfd9f781f
     name: vsc
     type: application
     urls:
     - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-24T19:46:59.490876+02:00"
+generated: "2024-07-01T17:31:02.697279+02:00"
