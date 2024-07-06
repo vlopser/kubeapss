@@ -1,15 +1,62 @@
 apiVersion: v1
 entries:
+  codeblock:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-06T13:52:46.300144+02:00"
+    description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
+    digest: 5ed6a3b4136661843ddee47c57c940de145a1f0e81c9ebaf650895f6ae5a1373
+    name: codeblock
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/codeblock-0.1.0.tgz
+    version: 0.1.0
+  eclipse:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-06T13:52:46.300244+02:00"
+    description: Entorno de desarrollo integrado extensible ampliamente utilizado
+      para Java y otro lenguajes.
+    digest: 5995186e8e9570fd227424de39ec049e8cdf2ec7d44e11df35f11a10208e2e52
+    name: eclipse
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/eclipse-0.1.0.tgz
+    version: 0.1.0
+  jupyter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-06T13:52:46.300343+02:00"
+    description: Aplicación web que pertime crear y compartir documentos con código
+      en vivo, ecuaciones, visualizaciones y texto narrativo
+    digest: 07a0c33fd71f8d7232f924f6da94f0ae6bf4a004fedf8d742b7cef577eedc6d2
+    name: jupyter
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/jupyter-0.1.0.tgz
+    version: 0.1.0
+  spyder:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-06T13:52:46.302037+02:00"
+    description: Entorno de desarrollo integrado especializaco en ciencia de datos
+      y análisis numérico, con soporte para Python
+    digest: 73d3adbc081c2b274c92b26e458852b06b995734d658f6d25798fcf54897f3a6
+    name: spyder
+    type: application
+    urls:
+    - https://vlopser.github.io/kubeapss/spyder-0.1.0.tgz
+    version: 0.1.0
   vsc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-06T13:37:36.271984+02:00"
+    created: "2024-07-06T13:52:46.302164+02:00"
     description: Entorno de desarrollo integrado ligero y altamente presonalizable
       para una amplia gama de lenguajes de programación.
-    digest: 5292fc2cd0ef246eb41eec4a699778947572043201ec2e566c3d199d3342fc8f
+    digest: 2e3cc631f10f558ab02fa436b81052d7c9c0c5afc19c0d96b6b19a2ac4f9f30f
     name: vsc
     type: application
     urls:
     - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-06T13:37:36.271752+02:00"
+generated: "2024-07-06T13:52:46.299928+02:00"
