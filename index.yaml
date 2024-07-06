@@ -3,13 +3,13 @@ entries:
   vsc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-06T11:20:18.435903+02:00"
+    created: "2024-07-06T11:34:55.493534+02:00"
     description: Entorno de desarrollo integrado ligero y altamente presonalizable
       para una amplia gama de lenguajes de programación.
-    digest: f29a9f9cf82e6efa6618249c1a15b86978779455b41283f1de233d169aa75b63
+    digest: 09301ff20854dc709a00c845676e6fe474f133130fed13bc6270604ac2efb824
     name: vsc
     type: application
     urls:
     - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-06T11:20:18.435193+02:00"
+generated: "2024-07-06T11:34:55.493003+02:00"
