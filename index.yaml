@@ -3,10 +3,10 @@ entries:
   bluej:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.789462+02:00"
+    created: "2024-09-05T14:38:27.536855+02:00"
     description: Entorno de desarrollo integrado diseñado para enseñar y aprender
       programación en Java.
-    digest: b0e4955de3f46f4cdf19f41e3eb6e59239e470f5e6f89e92a8c7a79b8989943e
+    digest: 07d776b78b2106cfc5f6979c26fdec9fed91b916cff26324045bf9260f45d163
     name: bluej
     type: application
     urls:
@@ -15,9 +15,9 @@ entries:
   codeblock:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.789719+02:00"
+    created: "2024-09-05T14:38:27.537043+02:00"
     description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
-    digest: 114607a1fc35f42c337b7d27983c2bd478ec4c440efacbdbba75f370854aa8ac
+    digest: 8ec3131757e8f2d5337debb6e48d4c2dda0e0eb98dfa248b1c9ad170ba050211
     name: codeblock
     type: application
     urls:
@@ -26,10 +26,10 @@ entries:
   eclipse:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.789942+02:00"
+    created: "2024-09-05T14:38:27.537221+02:00"
     description: Entorno de desarrollo integrado extensible ampliamente utilizado
       para Java y otro lenguajes.
-    digest: 34afa520c4c9023bc95b30709af422fa8359b0448ece54ddcc037283fbdb3831
+    digest: a844ed42f052e6474cc503e2827ecfe7ada64c55659acf1f93f2701da8302a79
     name: eclipse
     type: application
     urls:
@@ -38,10 +38,10 @@ entries:
   jupyter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.790148+02:00"
+    created: "2024-09-05T14:38:27.537396+02:00"
     description: Aplicación web que pertime crear y compartir documentos con código
       en vivo, ecuaciones, visualizaciones y texto narrativo
-    digest: c3faf0c4bc225cdefbe43051f9aa7883e0061b4ac50d97b69401a6fed67cd2b1
+    digest: 52b0cef38397c7995c1385ecf4e444cfd61ffd7a33b309107b26908c6313e998
     name: jupyter
     type: application
     urls:
@@ -50,10 +50,10 @@ entries:
   spyder:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.790333+02:00"
+    created: "2024-09-05T14:38:27.537563+02:00"
     description: Entorno de desarrollo integrado especializaco en ciencia de datos
       y análisis numérico, con soporte para Python
-    digest: 1f883d293e3cdc1c3705987c71461feb1b3b327471268a227176c601de63c463
+    digest: b6b7e941eedc010fb79db3f2e09f5f358c71e286bd808a2cdf57ab8270b6d300
     name: spyder
     type: application
     urls:
@@ -62,13 +62,13 @@ entries:
   vsc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T18:39:59.790505+02:00"
+    created: "2024-09-05T14:38:27.537727+02:00"
     description: Entorno de desarrollo integrado ligero y altamente presonalizable
       para una amplia gama de lenguajes de programación.
-    digest: 6030a9814d6b67a2c334ee2c319701002f11d043fa4394291583dd7ac3c916e7
+    digest: c27070b0ae61179ec514674a825ea139d079985406895e99dec4a67f6ab65b18
     name: vsc
     type: application
     urls:
     - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-29T18:39:59.789087+02:00"
+generated: "2024-09-05T14:38:27.536265+02:00"
