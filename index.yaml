@@ -3,10 +3,11 @@ entries:
   bluej:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.964424+02:00"
+    created: "2024-09-12T19:47:22.829765+02:00"
     description: Entorno de desarrollo integrado diseñado para enseñar y aprender
       programación en Java.
-    digest: 07d776b78b2106cfc5f6979c26fdec9fed91b916cff26324045bf9260f45d163
+    digest: 0fdf567492e0a3686a951abcfcbbb5deee5a57b82c209db006d525fc2f630fbc
+    icon: https://bluej.org/bluej-icon-256-2x.png
     name: bluej
     type: application
     urls:
@@ -15,9 +16,10 @@ entries:
   codeblock:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.964683+02:00"
+    created: "2024-09-12T19:47:22.829871+02:00"
     description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
-    digest: 8ec3131757e8f2d5337debb6e48d4c2dda0e0eb98dfa248b1c9ad170ba050211
+    digest: 1925625ef6b2576cc70f45071ddcb5f0ed943200c2a26b9ae28ea48aa6a85502
+    icon: https://www.codeblocks.org/images/logo160.png
     name: codeblock
     type: application
     urls:
@@ -26,10 +28,11 @@ entries:
   eclipse:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.964928+02:00"
+    created: "2024-09-12T19:47:22.829975+02:00"
     description: Entorno de desarrollo integrado extensible ampliamente utilizado
       para Java y otro lenguajes.
-    digest: a844ed42f052e6474cc503e2827ecfe7ada64c55659acf1f93f2701da8302a79
+    digest: c5803f680dad3cd5e09d96bba6d21dc2726cce5f84f39e01fc20078c1e991644
+    icon: https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png
     name: eclipse
     type: application
     urls:
@@ -38,10 +41,11 @@ entries:
   jupyter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.965431+02:00"
+    created: "2024-09-12T19:47:22.830081+02:00"
     description: Aplicación web que pertime crear y compartir documentos con código
       en vivo, ecuaciones, visualizaciones y texto narrativo
-    digest: 52b0cef38397c7995c1385ecf4e444cfd61ffd7a33b309107b26908c6313e998
+    digest: 8da738c681f4f671a65e8c166d58ab9b2be1807c2234ab7dca6e1cfe6f9ac4f3
+    icon: https://jupyter.org/assets/homepage/main-logo.svg
     name: jupyter
     type: application
     urls:
@@ -50,10 +54,11 @@ entries:
   spyder:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.965657+02:00"
+    created: "2024-09-12T19:47:22.830187+02:00"
     description: Entorno de desarrollo integrado especializaco en ciencia de datos
       y análisis numérico, con soporte para Python
-    digest: 9a7c37b3a71615b756f4cc4a94878eeb8e774e8d122712db65a63e8703a13551
+    digest: a6523c2d1ce9d9e0e480aaa7e88b83384a3faf61846db22bfacb218835d195c0
+    icon: https://deepinenespañol.org/wp-content/uploads/2020/10/Spyder-IDE-logo.png
     name: spyder
     type: application
     urls:
@@ -62,13 +67,14 @@ entries:
   vsc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T13:58:55.965791+02:00"
+    created: "2024-09-12T19:47:22.830293+02:00"
     description: Entorno de desarrollo integrado ligero y altamente presonalizable
       para una amplia gama de lenguajes de programación.
-    digest: c27070b0ae61179ec514674a825ea139d079985406895e99dec4a67f6ab65b18
+    digest: 493e7b1e4272f59089ed1b95fd1bea5329d847ff54d0a3115a3eddb87d3a1071
+    icon: https://code.visualstudio.com/assets/images/code-stable.png
     name: vsc
     type: application
     urls:
     - https://vlopser.github.io/kubeapss/vsc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-06T13:58:55.963841+02:00"
+generated: "2024-09-12T19:47:22.829247+02:00"
